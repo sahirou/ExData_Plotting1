@@ -4,7 +4,7 @@ source('load_data.R')
 
 ## Graphics devices for PNG file
 png(
-  filename = "plot3png",
+  filename = "plot3.png",
   width = 480, 
   height = 480, 
   units = "px"

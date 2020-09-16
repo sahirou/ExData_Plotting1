@@ -4,7 +4,7 @@ source('load_data.R')
 
 ## Plot
 png(
-  filename = "plot2png",
+  filename = "plot2.png",
   width = 480, 
   height = 480, 
   units = "px"
